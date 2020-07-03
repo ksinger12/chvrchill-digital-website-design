@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Andrew Churchill",
+    "image": "https://images.squarespace-cdn.com/content/v1/5d0c394e822f3f0001b586a2/1562204328213-7604GQHG848YZ9MQWG80/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg?format=750w",
+    "bio": "Andrew Churchill, 20, is a self-taught artist who specializes in cityscape photography. He is pursuing a Bachelor’s of Applied Science at Queen’s University, smashing the notion that an engineer can not also be an artist, or vice versa. His work has been featured on Hypebeast, and ArtofVisuals, and has also led to shooting with F1 driver Lewis Hamilton and singer/songwriter Keshia Chanté. Andrew sees no boundaries between himself and his vision, and what stories can be told. He hopes to evoke a raw sense of freedom, and to transport the viewer to a place very few get to see. ",
+    "contactmessage": "Contact Andrew through the form below:",
+    "email": "andrew.churchill@outlook.com",
+    "phone": "",
+    "website": "https://www.chvrchill.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/seal.andrew",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/chvrchill/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrew-churchill/?originalSubdomain=ca",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "portfolio": {
+    "images": [
+      {
+        "title": "Image 1",
+        "category": "City",
+        "image": "/images/IMG_4027.jpg"
+      },
+      {
+        "title": "Image 2",
+        "category": "City",
+        "image": "/images/DSC_0017-5.jpg"
+      },
+      {
+        "title": "Image 3",
+        "category": "City",
+        "image": "/images/IMG_3537.jpg"
+      },
+      {
+        "title": "Image 4",
+        "category": "City",
+        "image": "/images/IMG_6863.jpg"
+      },
+      {
+        "title": "Image 5",
+        "category": "City",
+        "image": "/images/IMG_8882-HDR.jpg"
+      },
+      {
+        "title": "Image 6",
+        "category": "City",
+        "image": "/images/IMG_9806.jpg"
+      },
+      {
+        "title": "Image 7",
+        "category": "Nature",
+        "image": "/images/IMG_2174.jpg"
+      },
+      {
+        "title": "Image 8",
+        "category": "Nature",
+        "image": "/images/IMG_9829-2.jpg"
+      },
+      {
+        "title": "Image 9",
+        "category": "Nature",
+        "image": "/images/IMG_9035.jpg"
+      },
+      {
+        "title": "Image 10",
+        "category": "Nature",
+        "image": "/images/IMG_4757.jpg"
+      },
+      {
+        "title": "Image 11",
+        "category": "Nature",
+        "image": "/images/IMG_0976.jpg"
+      },
+      {
+        "title": "Image 12",
+        "category": "Nature",
+        "image": "/images/IMG_5006.jpg"
+      },
+      {
+        "title": "Image 13",
+        "category": "People",
+        "image": "/images/IMG_9116.jpg"
+      },
+      {
+        "title": "Image 14",
+        "category": "People",
+        "image": "/images/IMG_2378.jpg"
+      },
+      {
+        "title": "Image 15",
+        "category": "People",
+        "image": "/images/IMG_5395.jpg"
+      },
+      {
+        "title": "Image 16",
+        "category": "People",
+        "image": "/images/_DSC7064.jpg"
+      },
+      {
+        "title": "Image 17",
+        "category": "People",
+        "image": "/images/IMG_5361.jpg"
+      },
+      {
+        "title": "Image 18",
+        "category": "People",
+        "image": "/images/IMG_6280.jpg"
+      },
+      {
+        "title": "Image 19",
+        "category": "People",
+        "image": "/images/IMG_6358.jpg"
+      },
+      {
+        "title": "Image 20",
+        "category": "People",
+        "image": "/images/IMG_1256.jpg"
+      },
+      {
+        "title": "Image 21",
+        "category": "People",
+        "image": "/images/IMG_2310.jpg"
+      }
+    ]
+  }
+}
